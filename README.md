@@ -39,4 +39,4 @@ To run this game, follow these steps:
 - Winner: The first player to get three markers in a row, column, or diagonal wins!
 
 ## License 📜
-This project is open source and available under the MIT License. (LICENSE)
+This project is open source and available under the MIT License. (https://github.com/hiteshkumar950/TIC-TAC-TOE/blob/main/LICENSE)[LICENSE]
